@@ -1,0 +1,18 @@
+## redfin-user 11 RD1A.200810.020 6792687 release-keys
+- Manufacturer: google
+- Platform: lito
+- Codename: redfin
+- Brand: google
+- Flavor: redfin-user
+- Release Version: 11
+- Id: RD1A.200810.020
+- Incremental: 6792687
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/redfin/redfin:11/RD1A.200810.020/6792687:user/release-keys
+- OTA version: 
+- Branch: redfin-user-11-RD1A.200810.020-6792687-release-keys
+- Repo: google_redfin_dump

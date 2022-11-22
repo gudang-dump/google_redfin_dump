@@ -1,0 +1,5 @@
+net.bt.name=Android
+ro.build.description=redfin-user 11 RD1A.200810.020 6792687 release-keys
+ro.build.display.id=RD1A.200810.020
+ro.build.product=redfin
+ro.wifi.channels=

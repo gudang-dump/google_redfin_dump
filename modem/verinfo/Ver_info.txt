@@ -1,0 +1,18 @@
+{
+    "Image_Build_IDs": {
+        "aop": "AOP.HO.2.0.4-00017-SAIPANAAAAANAZO-1", 
+        "apps": "LA.UM.9.12.r2-01400-SAIPAN.0-1", 
+        "boot": "BOOT.XF.3.3.1-00056-SAIPANLAZ-1", 
+        "common": "Saipan.LA.2.0.c9-00131-STD.PROD-1", 
+        "glue": "GLUE.SAIPAN.LA.1.0-00301-NOOP_TEST-1", 
+        "modem": "MPSS.HI.2.0.c8-00132-SAIPAN_GEN_PACK-1.390511.3.393100.2", 
+        "tz": "TZ.XF.5.10.1-00110-SAIPANAAAAANAZT-1", 
+        "tz_apps": "TZ.APPS.2.0-00113-SAIPANAAAAANAZT-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Saipan.LA.2.0.c9-00131-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2021-04-19 08:44:44"
+    }, 
+    "Version": "1.0"
+}

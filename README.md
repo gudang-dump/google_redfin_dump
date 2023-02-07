@@ -1,0 +1,18 @@
+## redfin-user 13 TQ1A.230205.002 9471150 release-keys
+- Manufacturer: google
+- Platform: lito
+- Codename: redfin
+- Brand: google
+- Flavor: redfin-user
+- Release Version: 13
+- Id: TQ1A.230205.002
+- Incremental: 9471150
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/redfin/redfin:13/TQ1A.230205.002/9471150:user/release-keys
+- OTA version: 
+- Branch: redfin-user-13-TQ1A.230205.002-9471150-release-keys-random-text-26062278204035
+- Repo: google_redfin_dump
